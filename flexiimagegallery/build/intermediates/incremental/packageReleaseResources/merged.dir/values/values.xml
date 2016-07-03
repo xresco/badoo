@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="FlexiGallery"><attr format="dimension" name="gallery_items_horizontal_spacing"/><attr format="dimension" name="gallery_items_vertical_spacing"/><attr format="dimension" name="gallery_average_row_height"/></declare-styleable>
-    <string name="app_name">FlexiImagegallery</string>
-</resources>
